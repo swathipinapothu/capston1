@@ -1,0 +1,241 @@
+.main1{
+	height: 1200px;
+	width: 800px;
+	background-color: whitesmoke;
+	border: 1px solid black;
+}
+.div1{
+	height:400px ;
+	width:800px ;
+	background-color:white;
+	border:1px solid black;
+}
+.a{
+	height:200px ;
+	width:300px ;
+	background-color:red ;
+	float: right;
+	margin-right: 100px;
+	margin-top: 50px;
+}
+.img1{
+	float: left;
+	width: 70%;
+	position: relative;
+    left: 110px;
+	bottom: 170px;
+}
+.div2{
+	height: 400px;
+	width:800px ;
+	background-color:whitesmoke ;
+}
+.b{
+	height:180px ;
+	width:250px ;
+	background-color:white;
+	float: left;
+	padding: 20px;
+	position: relative;
+	bottom: 300px;
+	left: 150px;
+}
+.p{
+   margin-left: 20px;
+   padding-left: 10px;
+}
+.but{
+	padding: 10px;
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+.div3{
+	height:400px ;
+	width:800px ;
+	background-color:red;
+}
+.tab{
+	color: white;
+	text-align: center;
+	position: relative;
+	top: 130px;
+	right: 120px;
+}
+   .tab1{
+            height: 200px;
+            width: 130px;
+            float: left;
+            color: blue;
+           	}
+   .tab2{
+            height: 200px;
+            width: 130px;
+             float: left;
+             color: blue;
+           	}
+   .tab3{
+            height: 200px;
+            width: 130px;
+             float: left;
+             color: blue;
+           	}
+   	.tab4{
+            height: 200px;
+            width: 130px;
+             float: left;
+             color: blue;
+           	}
+.main2{
+	height: 600px;
+	width: 800px;
+	background-color: black;
+	border: 1px solid black;
+}           	
+.y{
+	height: 450px;
+	width: 800px;
+	text-align: center;
+}
+.w{
+	text-align: center;
+	color: white;
+	position: relative;
+	right: 130px;
+	font-family: bondie slab regular webfont;
+}
+.x{
+	text-align: center;
+	color: white;
+}
+.h5{
+	text-align: center;
+	color: white;
+	position: relative;
+	bottom: 260px;
+}
+#daddy{
+	width: 150px;
+	text-align: center;
+}
+#mommy{
+	width: 150px;
+	text-align: center;
+	position: relative;
+	bottom: 30px;
+	left: 300px;
+}
+.save{
+    width: 150px;
+    height: 30px;
+    color: white;
+    background-color: red;
+    border: none;
+}
+input{
+    width: 300px;
+    height: 23px;
+  margin-left: 180px;
+    padding-left: 5px;
+    background-color: white;
+  color: black;
+}
+.z{
+	height: 150px;
+	width: 800px;
+	background-color: gray;
+	text-align: center;
+	position: relative;
+	bottom:400px;
+	padding: 0px;
+	margin: 0px;
+}
+.head1{
+	color: red;
+	position: relative;
+	bottom: 250px;
+	left: 120px;
+
+}
+.head2{
+	color: red;
+	position: relative;
+	bottom: 350px;
+	text-align: center;
+}
+.head3{
+	color: red;
+	position: relative;
+	bottom: 450px;
+	left: 550px;
+}
+.heading{
+	color: white;
+	font-size: 15px;
+}
+.main3{
+	height: 1200px;
+	width: 800px;
+	background-color: whitesmoke;
+	border: 1px solid whitesmoke;
+}
+.img2{
+	float: left;
+	width: 100%;
+	position: relative;
+	top: 0px;
+}
+.ab{
+            height: 600px;
+            width: 130px;
+            float: right;
+            position: relative;
+            top: 50px;
+            right: 260px;
+            background-color: red;
+           	}
+.img3{
+	height: 300px;
+	width: 50%;
+	position: relative;
+	left: 100px;
+	bottom: 260px;
+}
+.img4{
+	height: 300px;
+	width: 35%;
+	position: relative;
+	left: 150px;
+	bottom: 340px;
+}
+.he1{
+	height:180px ;
+	width:250px ;
+	background-color:white;
+	float: left;
+	padding: 20px;
+	position: relative;
+	bottom: 350px;
+	left: 450px;
+}
+.h6{
+   margin-left: 10px;
+   padding-left: 10px;
+   font-size: 15px;
+}
+.holi{
+	padding: 10px;
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+.he2{
+	height:180px ;
+	width:250px ;
+	background-color:white;
+	float: left;
+	padding: 20px;
+	position: relative;
+	bottom: 150px;
+	left: 50px;
+}
